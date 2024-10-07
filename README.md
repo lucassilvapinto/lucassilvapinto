@@ -67,3 +67,17 @@ Feel free to explore my projects and connect with me!
 ---
 
 ⚡️ "The more you learn, the more you grow."
+
+
+## 📂 Projects
+
+Here are some of the projects I've been working on:
+
+### [Degrees Converter](https://github.com/lucassilvapinto/DegreesConverter)
+Convert radians to degrees using a simple Python program.
+
+- **Language**: Python
+- **Purpose**: A small project to practice mathematical conversions and Python basics.
+- **Key Feature**: Converts radians to degrees with a user-friendly interface.
+
+---
